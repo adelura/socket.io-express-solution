@@ -4,9 +4,9 @@ This example show how to use [socket.io](https://github.com/Automattic/socket.io
 
 To run example just simply run
 
-```
+``` bash
 $ npm install
-$ node app.js
+$ npm start
 ```
 
 and navigate to [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
