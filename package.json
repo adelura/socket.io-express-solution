@@ -15,6 +15,6 @@
     "express-session": "~1.15.6",
     "cookie": "*",
     "cookie-parser": "*",
-    "ejs": "2.5.7"
+    "ejs": "3.1.7"
   }
 }
